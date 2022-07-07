@@ -1,0 +1,74 @@
+body{
+
+    background-color: black;
+   
+    text-align: center;
+}
+#red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-right: 10px;
+}
+#yellow{
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+}
+#green{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+#blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.button{
+    cursor: pointer;
+    display: inline-block;
+}
+
+.button:hover{
+   box-shadow: inset 0px 0px 0px 3px white;
+   box-sizing: border-box;
+    
+    opacity: 75%;
+}
+
+h1{
+    margin: 0;
+    padding-top: 0;
+    font-size: 70px;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+h2{
+    margin: 0;
+    padding: 10px 0;
+        font-size: 35px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-size: 20px;
+    color: cyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* .above{
+    margin-bottom: 10px;
+} */
+/* .wrapper{
+  font-size: 30px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
